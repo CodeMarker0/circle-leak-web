@@ -1,0 +1,15 @@
+Circle Leak Web — browser-based adaptation
+Copyright (c) 2026 Circle Leak Web contributors
+
+This project is derived from the open-source project "circle-leak-sim":
+https://github.com/baisedegy/circle-leak-sim
+
+Original project: Copyright 2026 sxc
+Original project license: Apache License, Version 2.0
+
+The Python/Pygame implementation was rewritten in browser JavaScript,
+including the physics simulation, weighted particle representation,
+rendering, input handling, charts, and interface layout.
+
+The full terms are included in LICENSE. The original author's copyright
+and attribution are preserved. No external runtime dependencies.
